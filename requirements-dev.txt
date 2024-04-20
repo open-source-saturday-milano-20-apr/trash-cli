@@ -12,3 +12,5 @@ twine
 types-six
 types-mock
 types-psutil
+# tox
+tox
